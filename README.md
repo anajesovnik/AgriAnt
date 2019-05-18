@@ -1,3 +1,4 @@
 # AgriAnt
-R code for statistical analyses for study of ant fauna of agricultural land in Zagreb
-Jesovnik A, Blažević I, Lemić D, Pajač Živković I: Ant fauna of annual and perennial crops
+R code used for statistical analyses in a study of ant fauna of agricultural land in Zagreb
+
+Ješovnik A, Blažević I, Lemić D, Pajač Živković I (2019): Ant fauna of annual and perennial crops
